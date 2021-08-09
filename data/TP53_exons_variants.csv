@@ -1,0 +1,48 @@
+chr,start,stop,allele_frequency,variant_type,dbsnp_id,dbsnp_variant_type,significances,origins,diseases
+17,7565165,7565166,0.0014,SNP,rs186032731,snv,,,
+17,7569495,7569496,0.0005,SNP,rs148556337,snv,,,
+17,7569541,7569542,0.01,SNP,rs74351250,snv,,,
+17,7569545,7569546,0.0041,SNP,rs144366923,snv,not-provided,germline,not specified
+17,7571751,7571752,0.01,SNP,rs78378222,snv,risk-factor;conflicting-interpretations-of-pathogenicity,unknown;germline,"Hereditary cancer-predisposing syndrome;Basal cell carcinoma, susceptibility to, 7;Li-Fraumeni syndrome 1"
+17,7571829,7571830,0.0005,SNP,rs139396032,snv,,,
+17,7571856,7571857,0.01,SNP,rs114831472,snv,benign,germline,Li-Fraumeni syndrome 1
+17,7571990,7571991,0.0027,SNP,rs55817367,snv,likely-benign,germline,Li-Fraumeni syndrome 1
+17,7572100,7572101,0.05,SNP,rs17884306,snv,benign,germline,Li-Fraumeni syndrome 1
+17,7572313,7572314,0.01,SNP,rs17879353,snv,benign,germline,Li-Fraumeni syndrome 1
+17,7572355,7572356,0.01,INDEL,rs202099016,,,,
+17,7572441,7572442,0.04,SNP,rs4968187,snv,benign,germline,Li-Fraumeni syndrome 1
+17,7572517,7572518,0.0018,SNP,rs191918079,snv,likely-benign,germline,Li-Fraumeni syndrome 1
+17,7572598,7572599,0.01,SNP,rs17881366,snv,benign,germline,Li-Fraumeni syndrome 1
+17,7572721,7572722,0.01,SNP,rs16956880,snv,benign,germline,Li-Fraumeni syndrome 1
+17,7573947,7573948,0.0005,SNP,rs35993958,snv,uncertain-significance;benign-likely-benign;conflicting-interpretations-of-pathogenicity;likely-benign,unknown;germline,not provided;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7576542,7576543,0.0005,SNP,rs201293647,snv,likely-benign,germline,Hereditary cancer-predisposing syndrome
+17,7576545,7576546,0.0005,SNP,rs200274944,snv,likely-benign,germline,Hereditary cancer-predisposing syndrome
+17,7576910,7576911,0.0005,SNP,rs145151284,snv,benign;uncertain-significance;conflicting-interpretations-of-pathogenicity;benign-likely-benign,unknown;germline,not provided;Squamous cell carcinoma of the head and neck;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7577045,7577046,0.0005,SNP,rs201744589,snv,likely-benign;uncertain-significance;pathogenic;conflicting-interpretations-of-pathogenicity,somatic;unknown;germline,not provided;Neoplasm of ovary;Li-Fraumeni syndrome 1;Rhabdomyosarcoma (disease);Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome
+17,7577068,7577069,0.0005,SNP,rs55819519,snv,uncertain-significance;likely-pathogenic;benign;conflicting-interpretations-of-pathogenicity,unknown;maternal;germline,not provided;Squamous cell carcinoma of the head and neck;Bone marrow failure syndrome 5;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7577119,7577120,0.0005,SNP,rs28934576,snv,pathogenic-likely-pathogenic;likely-pathogenic;pathogenic,somatic;unknown;germline,"Neoplasm of ovary;Acute myeloid leukemia;Thyroid gland undifferentiated (anaplastic) carcinoma;Hepatocellular carcinoma;Transitional cell carcinoma of the bladder;Breast neoplasm;Carcinoma of colon;Brainstem glioma;Adrenocortical carcinoma;Neoplasm of brain;Basal cell carcinoma, susceptibility to, 7;Nasopharyngeal carcinoma;Rhabdomyosarcoma (disease);Neoplasm of the large intestine;Adenocarcinoma of stomach;Multiple myeloma;not provided;Neoplasm;Squamous cell lung carcinoma;Adrenocortical carcinoma, hereditary;Adenocarcinoma of prostate;Pancreatic adenocarcinoma;Li-Fraumeni syndrome;Glioblastoma;Chronic lymphocytic leukemia;Medulloblastoma;Carcinoma of esophagus;Squamous cell carcinoma of the head and neck;Malignant neoplasm of body of uterus;Lung adenocarcinoma;Hereditary cancer-predisposing syndrome;Small cell lung carcinoma;Metastatic pancreatic neuroendocrine tumours;not specified;Osteosarcoma;Choroid plexus papilloma;Glioma susceptibility 1;Ovarian Serous Cystadenocarcinoma;Malignant melanoma of skin;Uterine Carcinosarcoma;Li-Fraumeni syndrome 1;Carcinoma of pancreas;Familial cancer of breast"
+17,7577956,7577957,0.04,SNP,rs8069054,snv,benign,germline,not provided
+17,7578114,7578115,0.86,SNP,rs1625895,snv,benign,germline,not specified
+17,7578145,7578146,0.0005,SNP,rs34949160,snv,benign,germline,not specified
+17,7578146,7578147,0.0005,SNP,rs200372146,snv,,,
+17,7578158,7578159,0.0005,SNP,rs199578278,snv,benign;likely-benign,unknown;germline,Hereditary cancer-predisposing syndrome;Li-Fraumeni syndrome 1;not specified
+17,7578161,7578162,0.0009,SNP,rs140756213,snv,likely-benign,unknown;germline,Hereditary cancer-predisposing syndrome;Li-Fraumeni syndrome 1;not specified
+17,7578182,7578183,0.0005,SNP,rs72661118,snv,likely-benign;not-provided;benign-likely-benign,somatic;unknown;germline,not provided;Neoplasm of ovary;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7578200,7578201,0.0005,SNP,rs199693249,snv,likely-benign,somatic;germline,Squamous cell carcinoma of the head and neck;Hereditary cancer-predisposing syndrome
+17,7578209,7578210,0.01,SNP,rs1800372,snv,benign,unknown;germline,none provided;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7578455,7578456,0.0009,SNP,rs139200646,snv,benign-likely-benign;likely-benign,germline,Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7578639,7578640,0.01,SNP,rs113530090,snv,likely-benign,germline,not provided
+17,7578644,7578645,0.87,SNP,rs2909430,snv,benign,germline,not specified
+17,7578654,7578655,0.0018,SNP,rs145153611,snv,,,
+17,7578670,7578671,0.01,SNP,rs35850753,snv,likely-benign,germline,not provided
+17,7578678,7578679,0.07,SNP,rs9895829,snv,,,
+17,7579438,7579439,0.0005,SNP,rs201717599,snv,likely-benign;uncertain-significance;conflicting-interpretations-of-pathogenicity;benign-likely-benign,unknown;germline,not provided;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7579470,7579471,0.0005,SNP,.,,,,
+17,7579471,7579472,0.6,SNP,rs1042522,snv,drug-response;benign;uncertain-significance;pathogenic,unknown;somatic;germline,"not provided;fluorouracil response - Efficacy, Toxicity/ADR;cyclophosphamide response - Efficacy, Toxicity/ADR;Lip and oral cavity carcinoma;none provided;paclitaxel response - Efficacy, Toxicity/ADR;antineoplastic agents response - Efficacy, Toxicity/ADR;CODON 72 POLYMORPHISM;cisplatin response - Efficacy, Toxicity/ADR;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified"
+17,7579545,7579546,0.0005,SNP,rs201741778,snv,benign;likely-benign,germline,Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7579547,7579548,0.01,SNP,rs1800371,snv,benign;uncertain-significance;conflicting-interpretations-of-pathogenicity,unknown;germline,not provided;Li-Fraumeni syndrome 1;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7579578,7579579,0.01,SNP,rs1800370,snv,benign,unknown;germline,Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;Li-Fraumeni syndrome 1;not specified
+17,7579704,7579705,0.0018,SNP,rs201753350,snv,uncertain-significance;benign;conflicting-interpretations-of-pathogenicity;likely-benign,unknown;germline,not provided;Li-Fraumeni syndrome 1;Hereditary breast and ovarian cancer syndrome;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified
+17,7579800,7579801,0.64,SNP,rs1642785,snv,benign,unknown;germline,Hereditary cancer-predisposing syndrome;none provided;not specified
+17,7579824,7579825,0.0005,SNP,rs184743157,snv,benign;likely-benign,unknown;germline,Hereditary cancer-predisposing syndrome;Li-Fraumeni syndrome 1;not specified
+17,7579881,7579882,0.0005,SNP,rs201382018,snv,uncertain-significance;conflicting-interpretations-of-pathogenicity;likely-benign,unknown;germline,not provided;Li-Fraumeni syndrome 1;Hereditary breast and ovarian cancer syndrome;Li-Fraumeni syndrome;Hereditary cancer-predisposing syndrome;not specified

@@ -1,0 +1,21 @@
+dbvar_id,significances,variant_type,chr,start,end
+nsv5673055,Pathogenic,copy number variation,17,7577009,7579922
+nsv5672989,Pathogenic,copy number variation,17,7579291,7579404
+nsv5672894,Pathogenic,copy number variation,17,7577489,7577647
+nsv5672893,Pathogenic,copy number variation,17,7572921,7591661
+nsv5381183,Pathogenic,copy number variation,17,7571752,7579912
+nsv5381041,Pathogenic,copy number variation,17,7589449,7591611
+nsv5381040,Pathogenic,copy number variation,17,7578129,7593029
+nsv4729929,Pathogenic,copy number variation,17,6650649,8040151
+nsv4685790,Pathogenic,delins,17,7578536,7578624
+nsv4685602,Pathogenic,copy number variation,17,7578283,7578750
+nsv4683659,Pathogenic,copy number variation,17,7589449,7593029
+nsv4682576,Pathogenic,copy number variation,17,7571752,7606455
+nsv4682363,Pathogenic,copy number variation,17,7589449,7606804
+nsv4682100,Pathogenic,copy number variation,17,7578129,7579912
+nsv4681673,Pathogenic,copy number variation,17,7571752,7606804
+nsv4453653,Pathogenic,copy number variation,17,7572917,8285638
+nsv4450650,Pathogenic,copy number variation,17,7572917,7591611
+nsv4450549,Pathogenic,copy number variation,17,7590924,7591611
+nsv3923531,Pathogenic,copy number variation,17,7381514,8338842
+nsv3917059,Pathogenic,copy number variation,17,45835,12247218
