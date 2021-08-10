@@ -98,14 +98,14 @@ def generate_report(df):
 
     output_report_file = f'{output_file_prefix}_report.txt'
     with open(output_report_file, 'w') as out:
-        out.write(f'Total variants: {total_variants}')
-        out.write(f'Variant types present: ' + ', '.join([str(vt) for vt in all_variant_types]))
-        out.write(f'dbSnp variant types present: ' + ', '.join([str(vt) for vt in all_dbsnp_variant_types]))
-        out.write(f'Max allele frequency: {max_allele_frequency}')
-        out.write(f'Avg allele frequency: {avg_allele_frequency}')
-        out.write(f'Diseases: {all_diseases}')
-        out.write(f'Significances: {significances}')
-        out.write(f'Origins: {origins}')
+        out.write(f'Total variants: {total_variants}.\n')
+        out.write(f'Variant types present: ' + ', '.join([str(vt) for vt in all_variant_types]) + '.\n')
+        out.write(f'dbSnp variant types present: ' + ', '.join([str(vt) for vt in all_dbsnp_variant_types]) + '.\n')
+        out.write(f'Max allele frequency: {max_allele_frequency}.\n')
+        out.write(f'Avg allele frequency: {avg_allele_frequency}.\n')
+        out.write(f'Diseases: {all_diseases}.\n')
+        out.write(f'Significances: {significances}.\n')
+        out.write(f'Origins: {origins}.\n')
 
     print(f'Wrote {output_report_file}.')
 
