@@ -1,2 +1,1 @@
-# GeneAnalysis
-Bioinformatics pipeline for analyzing variants of a certain gene.
+Tools for analyzing variants of a certain gene. See the readme's in the different folders for more details.
